@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jochen Müller 	j.mueller@socoto.com
 
 # THANKS
 
